@@ -1,5 +1,3 @@
-#Author Manimaran Ravichandran
-
 About Framework: 
 BDD-Cucumber Java Automation Framework
 
